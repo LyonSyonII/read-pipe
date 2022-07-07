@@ -1,6 +1,7 @@
 [package]
 name = "read_pipe"
 description = "Simple utility to read console pipes."
+documentation = "https://docs.rs/read_pipe"
 repository = "https://github.com/LyonSyonII/read_pipe"
 keywords = ["pipe", "read", "console", "linux", "stdin"]
 readme = "README.md"
