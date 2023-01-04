@@ -1,5 +1,5 @@
 # read_pipe
-Simple utility to read pipes from stdin.
+Simple Rust crate to read pipes from stdin.
 
 ## Usage
 ```rust
