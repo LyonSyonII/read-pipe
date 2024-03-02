@@ -1,4 +1,4 @@
-# read_pipe
+# read-pipe
 Simple Rust crate to read pipes from stdin.
 
 ## Usage
